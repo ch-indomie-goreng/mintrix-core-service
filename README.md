@@ -49,7 +49,7 @@ go run ./cmd/server              # run the API server
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jwt-io-light.png" height="40" /></td>
     <td align="center"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuh5cdsepfg71q22ngiil.png" height="40" /></td>
     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrAOm3cpNRk3XMSQ11bj7oQLmLPfWGYZyE6nJRbmzPsyChZNdAuXXhas&s=10" height="40" /></td>
-    <td align="center"></td>
+    <td align="center"><img src="https://www.somkiat.cc/wp-content/uploads/2023/06/go-slog.jpeg" height="40" /></td>
     <td align="center"><img src="https://dpcksph9iv8aa.cloudfront.net/assets/branding/BrandIconWhitePurple_2024-12-03-111937_gtap.svg" height="40" /></td>
     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO-NVwyGWKCwvNj16RnH0pN6gcsoTRPEUu2-HbOY7CVAFGdwzq3Oub1Tc&s=10" height="40" /></td>
     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRKCnwDp8FRg3fvOxXrtxIiBLiP0N9nLbx0UzHbf_40w&s=10" height="40" /></td>
