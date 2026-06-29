@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "skills": {
+    "golang-gin-api": {
+      "source": "henriqueatila/golang-gin-best-practices",
+      "sourceType": "github",
+      "skillPath": "skills/golang-gin-api/SKILL.md",
+      "computedHash": "d6d1192dfcd91e9078094b46e960de101c7e949ffc822cb6f5ede2d1c0adf4b5"
+    },
+    "golang-gin-architect": {
+      "source": "henriqueatila/golang-gin-best-practices",
+      "sourceType": "github",
+      "skillPath": "skills/golang-gin-architect/SKILL.md",
+      "computedHash": "bf8319340e955ccf46714ad1b1b57a7c4dbeb0479f849e7979efb15b0b28d5ce"
+    },
+    "golang-gin-auth": {
+      "source": "henriqueatila/golang-gin-best-practices",
+      "sourceType": "github",
+      "skillPath": "skills/golang-gin-auth/SKILL.md",
+      "computedHash": "22cba7ba70be37e965270a169c9c11471b431165783c289b80c2a9d5475041dc"
+    },
+    "golang-gin-database": {
+      "source": "henriqueatila/golang-gin-best-practices",
+      "sourceType": "github",
+      "skillPath": "skills/golang-gin-database/SKILL.md",
+      "computedHash": "514876d4ad5c1d7466459371971821e2f9681c220b3422c5b3afbe35367a911d"
+    },
+    "golang-gin-deploy": {
+      "source": "henriqueatila/golang-gin-best-practices",
+      "sourceType": "github",
+      "skillPath": "skills/golang-gin-deploy/SKILL.md",
+      "computedHash": "4516a0f18915e88340e61331ca7a8b1d58e43bc041736dc7dd8fd6d46168106f"
+    },
+    "golang-gin-psql-dba": {
+      "source": "henriqueatila/golang-gin-best-practices",
+      "sourceType": "github",
+      "skillPath": "skills/golang-gin-psql-dba/SKILL.md",
+      "computedHash": "7d4c24b52bdfa20396a87bf42a781187b6eba453c58e7efc2111fd496d452a5f"
+    },
+    "golang-gin-swagger": {
+      "source": "henriqueatila/golang-gin-best-practices",
+      "sourceType": "github",
+      "skillPath": "skills/golang-gin-swagger/SKILL.md",
+      "computedHash": "9639f9de2c2ce907076b29c4ac1c696076dfc0b5c612973119dfe8100cfc0af9"
+    },
+    "golang-gin-testing": {
+      "source": "henriqueatila/golang-gin-best-practices",
+      "sourceType": "github",
+      "skillPath": "skills/golang-gin-testing/SKILL.md",
+      "computedHash": "cd69feb2a89e96c35b2a0a9111ea81e47da0c394846c841c8ce70e041aeac8df"
+    },
+    "scalar-docs": {
+      "source": "scalar/scalar",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/scalar-docs/SKILL.md",
+      "computedHash": "e9c914429cd1c8540e584e92dc54bc6277058b716903686f74a2a4a1127488f1"
+    }
+  }
+}
