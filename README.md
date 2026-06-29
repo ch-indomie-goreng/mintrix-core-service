@@ -34,7 +34,7 @@ go run ./cmd/server              # run the API server
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" height="40" /></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo-redis_%28old%29.svg/3840px-Logo-redis_%28old%29.svg.png" height="40" /></td>
     <td align="center"><img src="https://s3.typoniels.de/typoniels-strapi/production/scalar_24e94da42a.webp" height="40" /></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" height="40" /></td>
+    <td align="center"><img src="https://1000logos.net/wp-content/uploads/2020/08/Nginx-Logo.png" height="40" /></td>
   </tr>
   <tr>
     <td align="center"><strong>Go</strong><br/>Language</td>
